@@ -18,3 +18,9 @@ This is a beginner-friendly data analysis project exploring survival patterns fr
 
 ## 📂 Dataset Source
 - [Titanic Dataset on GitHub](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv)
+
+## 📊 Sample Visualization
+
+This chart shows the survival rate of passengers based on their gender.
+
+![Survival Chart](survival-chart.png)
